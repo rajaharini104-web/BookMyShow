@@ -1,4 +1,4 @@
-import MovieCard from "../components/MovieCard";
+import MovieCard from "../components/Moviecard";
 import { useNavigate } from "react-router-dom";
 
 function Home() {
